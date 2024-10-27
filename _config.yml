@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Athila Mattos"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "DevOps Engineer writing about my experiments with #devops for fun." 
+  bio    : "DevOps Engineer writing about my experiments with #devops for fun. 🎃"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
